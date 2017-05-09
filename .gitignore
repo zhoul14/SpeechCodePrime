@@ -304,6 +304,7 @@ SimpleSpeechRec/clt/
 *.exe
 *.fm
 *.ef
+*.bin
 NewFeature/*.dat
 *.rcon*
 pyTools/
